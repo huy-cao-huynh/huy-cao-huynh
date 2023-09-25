@@ -1,14 +1,13 @@
-### Hi there 👋, Huy Huynh
+### Hi there 👋, I'm Huy Huynh
 #### Software Engineer
+![Software Engineer]()
 
 I'm a college student from Washington passionate about learning and building community. I enjoy but am not limited to using languages such as Python and Java. I am interested in learning more about UI, UX, and design in general.
 
-Skills: JS / PY / SQL
+Skills: JS / PY / SQL /
 
-- 🔭 I’m currently working on my own website 
-- 🌱 I’m currently learning data structures and OOP fundamentals 
-- 📫 How to reach me: huyhuynh@uw.edu 
+- 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/huy-cao-huynh)  
+
 
