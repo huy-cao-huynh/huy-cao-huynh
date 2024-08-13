@@ -1,13 +1,13 @@
 ![Software Engineer](https://github.com/huy-cao-huynh/huy-cao-huynh/blob/main/Huy%20Huynh%20(1).png)
 
-# Hi there 👋, I'm Huy Huynh
-I'm a college student from Washington passionate about learning and building community. I enjoy but am not limited to using languages such as Python and Java. I am interested in learning more about UI, UX, and design in general.
+#👋Hi there! My name is Huy and I'm currently seeking entry-level software development internships. I'm especially interested in all things computer vision and machine learning.
+
+I'm a freshman at the University of Washington majoring in computer science and engineering. Even though I've only been in college for a year, I've found a passion for autonomous robots. I hope to pursue opportunities that expand on my curiosities and help me build the skills required to work on awesome projects like driverless vehicles.
 
 ## Skills and Experience
-* 💻 JS, PY, SQL
-* 💽 Computer Hardware
-* 🔭 I’m currently working on my personal website
-* 🌱 I’m currently learning data structures and OOP fundamentals 
+* 💻 Java, Python, C, SQL
+* 🔭 I’m currently working on a chess engine in the Java programming language
+* 🌱 I’m currently learning about machine learning, computer vision, and artificial intelligence
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/huy-cao-huynh)  
