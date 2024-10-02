@@ -6,7 +6,6 @@ I'm a sophomore at the University of Washington majoring in computer science and
 
 ## Skills and Experience
 * 💻 Java, Python, C, SQL
-* 🔭 I’m currently working on a chess engine in the Java programming language
 * 🌱 I’m currently studying about machine learning and neural networks
 
 
