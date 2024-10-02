@@ -16,6 +16,5 @@ I'm a sophomore at the University of Washington majoring in computer science and
 * ♟️Java Chess Engine: This project is a fully functioning chess engine implemented in Java. The engine uses a Mini-Max/Alpha-Beta pruning algorithm to evaluate board states and determine the best move for each player.
 ##
 
-[<img src='https://github.com/user-attachments/assets/784d93d7-a199-4888-9213-843b6b596736' alt='linkedin' height ='40'>](www.linkedin.com/in/huy-huynh-5b2362231)
-
+<a href="https://linkedin.com/in/huy-huynh-5b2362231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huyhuynh" height="30" width="40" /></a>
 
