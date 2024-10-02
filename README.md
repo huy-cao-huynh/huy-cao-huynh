@@ -7,7 +7,7 @@ I'm a sophomore at the University of Washington majoring in computer science and
 ## Skills and Experience
 * 💻 Java, Python, C, SQL
 * 🔭 I’m currently working on a chess engine in the Java programming language
-* 🌱 I’m currently learning about machine learning, computer vision, and artificial intelligence
+* 🌱 I’m currently studying about machine learning and neural networks
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/huy-cao-huynh)  
